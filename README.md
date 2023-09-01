@@ -1,4 +1,4 @@
-Project Overview: Developed a comprehensive Student System to efficiently manage student records, enrollment, grades, and academic information for an educational institution.
+Project Overview: The Student System project is a comprehensive solution designed to efficiently manage student CURD Operation information for educational institutions. This system was developed to streamline administrative tasks and enhance the academic experience for students and faculty alike.
 
 Technologies Used:  
 Frontend: HTML, JSP,  
