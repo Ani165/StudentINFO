@@ -1,6 +1,6 @@
 # Student System project, to perform CURD Operation
 
-#Project Overview: 
+# Project Overview: 
   The Student System project is a comprehensive solution designed to efficiently manage student CURD Operation information for educational institutions. This system was developed to streamline administrative tasks and enhance the academic experience for students and faculty alike.
 
 #Technologies Used:  
